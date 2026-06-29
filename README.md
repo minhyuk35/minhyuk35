@@ -3,7 +3,7 @@
 # Hi, I'm Minhyuk 👋
 
 **Full-stack & IoT Developer** · 3D 웹 경험과 임베디드 신호처리를 함께 다룹니다.
-정보처리기사 실기를 준비하며 새로운 프로젝트를 계속 만들고 있어요.
+정보처리산업기사 실기를 준비하며 새로운 프로젝트를 계속 만들고 있어요.
 
 [![Email](https://img.shields.io/badge/Email-minhyuk6512%40gmail.com-5b7cfa?style=for-the-badge&logo=gmail&logoColor=white)](mailto:minhyuk6512@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-minhyuk35-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/minhyuk35)
