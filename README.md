@@ -4,7 +4,7 @@
 
 <br>
 
-**3D 웹, AI 연동, 커뮤니티 플랫폼까지 — 혼자 기획하고 끝까지 만듭니다.**
+**3D 웹, AI 연동, 커뮤니티 플랫폼까지 — 혼자 기획하고 만듭니다.**
 
 [![Email](https://img.shields.io/badge/Email-minhyuk6512%40gmail.com-5b7cfa?style=for-the-badge&logo=gmail&logoColor=white)](mailto:minhyuk6512@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-minhyuk35-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/minhyuk35)
